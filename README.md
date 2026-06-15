@@ -31,11 +31,6 @@ A full-stack bookstore application built with **Spring Boot, Spring Security, JW
 * React Router
 * Context API
 
-## 📂 Project Structure
-BookStore
-├── BackEnd
-└── FrontEnd
-
 ## ▶️ Run
 ### Backend
 cd BackEnd
